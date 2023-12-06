@@ -82,4 +82,3 @@ python my_beam_script.py
 The output files (`output_pandas.csv` and `output_beam.txt`) will contain the calculated metrics and totals for legal entities, counterparties, and tiers based on the input data.
 
 Feel free to reach out if you have any questions or encounter any issues while running the code.
-# hartree
